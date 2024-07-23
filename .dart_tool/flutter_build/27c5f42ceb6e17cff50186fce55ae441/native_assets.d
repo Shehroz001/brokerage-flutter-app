@@ -1,0 +1,1 @@
+ C:\\brokerage_app\\.dart_tool\\flutter_build\\27c5f42ceb6e17cff50186fce55ae441\\native_assets.yaml: 
